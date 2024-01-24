@@ -1,0 +1,45 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 200px;
+}
+
+.flexbox-item {
+    border: 3px solid;
+    padding: 10px;
+    margin: 1opx;
+}
+
+#flexbox-0 {
+    background-color: #d6b4ff;
+    color: white;
+}
+
+#flexbox-1 {
+    background-color: #d6b4ff;
+    color: white;
+}
+
+#flexbox-2 {
+    background-color: #d6b4ff;
+    color: white;
+}
+
+#flexbox-3 {
+    background-color: #d6b4ff;
+    color: white;
+}
+
+body {
+    background-color: #b981ff;
+    color: white;
+}
+
+.flexbox-container-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    min-height: 700px;
+}
+
