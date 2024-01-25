@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 200px;
 }
 
 .flexbox-item {
@@ -34,7 +33,7 @@
 }
 
 body {
-    background-color: #b981ff;
+    background-color: black;
     color: white;
 }
 
