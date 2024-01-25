@@ -24,11 +24,13 @@
 #flexbox-2 {
     background-color: #d6b4ff;
     color: white;
+    width: 50%;
 }
 
 #flexbox-3 {
     background-color: #d6b4ff;
     color: white;
+    width: 50%;
 }
 
 body {
